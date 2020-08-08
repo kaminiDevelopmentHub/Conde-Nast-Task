@@ -1,0 +1,101 @@
+/*---------------------
+  Helper CSS
+-----------------------*/
+
+.section-title {
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.section-title h2 {
+	color: #1c1c1c;
+	font-weight: 700;
+	position: relative;
+}
+
+.section-title h2:after {
+	position: absolute;
+	left: 0;
+	bottom: -15px;
+	right: 0;
+	height: 4px;
+	width: 80px;
+	background: #7fad39;
+	content: "";
+	margin: 0 auto;
+}
+
+.set-bg {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
+
+	min-height: 100px;
+	background-image:url("http://localhost:3000/images.jpeg");
+}
+.adjust{
+	margin-top: 100px;
+}
+.fontColor{
+	color: #1c1c1c;
+}
+.spad {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.text-white h1,
+.text-white h2,
+.text-white h3,
+.text-white h4,
+.text-white h5,
+.text-white h6,
+.text-white p,
+.text-white span,
+.text-white li,
+.text-white a {
+	color: #fff;
+}
+
+
+
+/*---------------------
+  Breadcrumb
+-----------------------*/
+
+.breadcrumb-section {
+	display: flex;
+	align-items: center;
+	padding: 45px 0 40px;
+}
+
+.breadcrumb__text h2 {
+	font-size: 46px;
+	color: #7fad39;
+	font-weight: 700;
+}
+
+.breadcrumb__option a {
+	display: inline-block;
+	font-size: 16px;
+	color: #7fad39;
+	font-weight: 700;
+	margin-right: 20px;
+	position: relative;
+}
+
+.breadcrumb__option a:after {
+	position: absolute;
+	right: -12px;
+	top: 13px;
+	height: 1px;
+	width: 10px;
+	background: #7fad39;
+	content: "";
+}
+
+.breadcrumb__option span {
+	display: inline-block;
+	font-size: 16px;
+	color: #7fad39;
+}

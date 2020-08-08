@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 7942,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Violet Blue",
+            "title": "Twitter's Bitcoin hackers had almost limitless access",
+            "description": "On Wednesday, July 15, Twitter was the target of a very public hack attack that’s still sending shockwaves across the internet. In what is a major security breach for the company, a handful of the most-followed Twitter accounts belonging to some of the world’…",
+            "url": "https://www.engadget.com/twitter-bitcoin-scam-social-engineering-hack-access-193040357.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fca68c900-c85d-11ea-b9df-6238180027a8&client=amp-blogside-v2&signature=9b0fbb183070e467429323ab75f41cbbe1c8dbc3",
+            "publishedAt": "2020-07-17T19:30:40Z",
+            "content": "Just hackers burning up 0day like it’s a fire sale\r\nImagine getting the keys to the Twitter kingdom -- access to all the account admin panels in the world. What would you do? You could grab high-valu… [+8860 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Nicole Lee",
+            "title": "Tampa teenager arrested for Twitter Bitcoin hack",
+            "description": "Authorities in Tampa, Florida have arrested a 17-year-old for being the alleged “mastermind” behind the Twitter Bitcoin hack that targeted several high-profile accounts on July 15th, 2020. His name has not been revealed due to his underage status. According t…",
+            "url": "https://www.engadget.com/teenager-arrested-twitter-bitcoin-hack-183302700.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F80319ad0-c77f-11ea-adfe-d560f6400e1e&client=amp-blogside-v2&signature=3ae5e1a0ea67905f52a03c1a851c07fc1c61bdbb",
+            "publishedAt": "2020-07-31T18:33:02Z",
+            "content": "Authorities in Tampa, Florida have arrested a 17-year-old for being the alleged “mastermind” behind the Twitter Bitcoin hack that targeted several high-profile accounts on July 15th, 2020. His name h… [+463 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jonathan Shieber",
+            "title": "Casa pivots to provide self-custody services to secure bitcoin",
+            "description": "Casa, a Colorado-based provider of bitcoin security services, is launching a managed service allowing customers to buy and hold their own bitcoin, rather than using an external custodian like Coinbase. “With self-custody using Casa it’s impossible to be hacke…",
+            "url": "http://techcrunch.com/2020/08/06/casa-pivots-to-provide-self-custody-services-to-secure-bitcoin/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1050523528.jpg?w=600",
+            "publishedAt": "2020-08-06T18:25:29Z",
+            "content": "Casa, a Colorado-based provider of bitcoin security services, is launching a managed service allowing customers to buy and hold their own bitcoin, rather than using an external custodian like Coinbas… [+1571 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brian Barrett",
+            "title": "How the Alleged Twitter Hackers Got Caught",
+            "description": "Bitcoin payments and IP addresses led investigators to two of the alleged perpetrators in just over two weeks.",
+            "url": "https://www.wired.com/story/how-alleged-twitter-hackers-got-caught-bitcoin/",
+            "urlToImage": "https://media.wired.com/photos/5f246ee3888ca6bc8f78ae9d/191:100/w_1280,c_limit/Sec_twitter_1227655812.jpg",
+            "publishedAt": "2020-08-01T00:12:01Z",
+            "content": "On July 15, a Discord user with the handle Kirk#5270 made an enticing proposition. I work for Twitter, they said, according to court documents released Friday. I can claim any name, let me know if yo… [+3660 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Christine Fisher",
+            "title": "Twitter hacker was previously caught stealing a fortune in Bitcoin",
+            "description": "Graham Ivan Clark, the 17-year-old “mastermind” behind the massive Twitter breach that compromised high-profile accounts, like those belonging to Joe Biden and Elon Musk, got caught stealing hundreds of thousands of dollars worth of Bitcoins last year. Accord…",
+            "url": "https://www.engadget.com/twitter-hacker-graham-clark-stolen-bitcoin-140234512.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fe1c11890-42df-11ea-9fc7-677060cb72f6&client=amp-blogside-v2&signature=2974a9748770f53801158974991307682915bc05",
+            "publishedAt": "2020-08-03T14:02:34Z",
+            "content": "In April, the Secret Service seized 100 Bitcoins from Clark, NYT reports. Weeks later, Bennett received a letter explaining that the Secret Service had recovered 100 of his Bitcoins. The letter cited… [+884 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Karissa Bell",
+            "title": "The FBI is investigating the Twitter Bitcoin hack",
+            "description": "The FBI has confirmed that it’s investigating the hack that compromised the accounts of Joe Biden, Elon Musk, Barack Obama, Kanye West and a number of other high-profile Twitter users. “The FBI is investigating the incident involving several Twitter account b…",
+            "url": "https://www.engadget.com/fbi-investigates-twitter-hack-crypto-scam-210819751.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F665bf5b0-c7a7-11ea-bf77-fd38c73c45ca&client=amp-blogside-v2&signature=35fbb76051772c8531395240d32dc65ca43d8866",
+            "publishedAt": "2020-07-16T21:08:19Z",
+            "content": "Reuters had previously reported the FBI would launch an investigation into the hack.\r\nThe FBI inquiry is now one of multiple investigations into the incident, which has drawn scrutiny from a number o… [+966 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Chris Velazco",
+            "title": "Everything we know about the Twitter Bitcoin hack",
+            "description": "Author’s note: This story was first published on 7/16/2020, and last updated on the same day. Check the Latest Updates section for the most recent developments. \r\n Engadget\r\n What happened?Early in the afternoon (Eastern time) on July 15th, a hacker -- or hac…",
+            "url": "https://www.engadget.com/everything-we-know-about-the-twitter-bitcoin-scam-hack-202447973.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F5a079df0-c793-11ea-8b9b-fb9d0432f01a&client=amp-blogside-v2&signature=e1b2908f5e075d2c2bbce7f11fea92868295999d",
+            "publishedAt": "2020-07-16T20:24:47Z",
+            "content": "Most of these accounts tweeted some variant of the same message: If someone were to send Bitcoin to the address specified in the tweets during a 30-minute window, the account owner would return doubl… [+3388 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Richard Lawler",
+            "title": "Twitter confirms 'Bitcoin' hackers copied the data of several accounts",
+            "description": "Ever since Wednesday’s “bitcoin scam” hack where attackers used Twitter’s internal tools to take over a number of high profile accounts, there’s been speculation about what they were truly after. While tweets from hijacked accounts claimed to seek Bitcoin, th…",
+            "url": "https://www.engadget.com/twitter-wednesday-bitcoin-hack-your-data-export-041410194.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fb8e61d00-c8ac-11ea-b9b4-87e82523c792&client=amp-blogside-v2&signature=d57a582c9a134949edd2f76c60ddb20e8748d1db",
+            "publishedAt": "2020-07-18T04:14:10Z",
+            "content": "Our investigation and cooperation with law enforcement continues, and we remain committed to sharing any updates here. More to come via @TwitterSupport as our investigation continues.\r\n— Twitter Supp… [+1321 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jonathan Shieber",
+            "title": "Bitcoin bulls are running, as prices spike above $11K",
+            "description": "The bitcoin bulls are back in town. The price of bitcoin surged today by $1,268.19, reaching a six-month high of $11,203.90, or a one-day gain of 12.73%. It’s another indication of the resurgence of both investor interest in the technology and renewed confide…",
+            "url": "http://techcrunch.com/2020/07/27/bitcoin-bulls-are-running-as-prices-spike-above-11k/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1173715184-1.jpg?w=599",
+            "publishedAt": "2020-07-28T01:28:34Z",
+            "content": "The bitcoin bulls are back in town.\r\nThe price of bitcoin surged today by $1,268.19, reaching a six-month high of $11,203.90, or a one-day gain of 12.73%. It’s another indication of the resurgence of… [+2562 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Makena Kelly",
+            "title": "Coinbase says it halted more than $280,000 in bitcoin transactions during Twitter hack",
+            "description": "The cryptocurrency exchange Coinbase said that it stopped around 1,100 customers from sending bitcoin to hackers who gained access to high-profile Twitter accounts.",
+            "url": "https://www.theverge.com/2020/7/20/21331499/coinbase-twitter-hack-elon-musk-bill-gates-joe-biden-bitcoin-scam",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/j9doeI17eouZs-YIK4CCrW4nVSg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20086189/acastro_200715_1777_twitter_0002.0.jpg",
+            "publishedAt": "2020-07-20T18:08:56Z",
+            "content": "The company blacklisted the bitcoin address\r\nIllustration by Alex Castro\r\nThe cryptocurrency exchange Coinbase said that it stopped around 1,100 customers from sending bitcoin to hackers who gained a… [+1775 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "(Deleted account)",
+            "title": "Steve Wozniak sues YouTube over Bitcoin scam videos",
+            "description": "Bitcoin scams are causing a lot of headaches right now. They've gotten so bad that an Apple cofounder has sued YouTube because of them.\nSteve Wozniak filed a lawsuit\r\n this week against YouTube over a string of Bitcoin scam videos hosted on the website. The v…",
+            "url": "https://mashable.com/article/steve-wozniak-youtube-lawsuit-bitcoin-scam/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F07%252F23%252Fd4%252Fa44e1d89bfc641b59ac1dd56ff969b04.561c4.jpg%252F1200x630.jpg?signature=e0200ElMsV03H_0O-SETRz_e9X4=",
+            "publishedAt": "2020-07-23T20:06:04Z",
+            "content": "Bitcoin scams are causing a lot of headaches right now. They've gotten so bad that an Apple cofounder has sued YouTube because of them.\r\nSteve Wozniak filed a lawsuit\r\n this week against YouTube over… [+3523 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Steve Dent",
+            "title": "Steve Wozniak sues Google for not acting on YouTube Bitcoin scams",
+            "description": "Steve Wozniak has filed a lawsuit against YouTube, saying the site has repeatedly ignored his requests to take down phony bitcoin giveaways that use his name. He compared YouTube’s actions to Twitter, which quickly removed similar scams after Wozniak and othe…",
+            "url": "https://www.engadget.com/steve-wozniak-youtube-scam-bitcoin-videos-110500090.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F42b81130-ccce-11ea-b5f7-477a691c063d&client=amp-blogside-v2&signature=d49aab2faa7ff5319cabf3b0ee260b4a387fa87a",
+            "publishedAt": "2020-07-23T11:05:00Z",
+            "content": "Much as with Twitter, the YouTube scams use Wozniak’s image to persuade users that he would double any bitcoins they send him. “When users transfer their cryptocurrency, in an irreversible transactio… [+1242 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Twitter hack: FBI investigates major attack",
+            "description": "Hackers managed to hijack official accounts of high-profile US figures in an apparent Bitcoin scam.",
+            "url": "https://www.bbc.co.uk/news/technology-53439585",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FBC4/production/_113425446_faces-1.jpg",
+            "publishedAt": "2020-07-16T22:42:57Z",
+            "content": "Image copyrightAFP/REUTERSImage caption\r\n Kim Kardashian West, Kanye West, Elon Musk, Bill Gates and Barack Obama were all 'hacked'\r\nThe FBI has launched an investigation after hackers hijacked Twitt… [+6470 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman",
+            "title": "The Quest to Liberate $300K of Bitcoin From an Old ZIP File",
+            "description": "The story of a guy who wouldn't let a few quintillion possible decryption keys stand between him and his cryptocurrency.",
+            "url": "https://www.wired.com/story/quest-to-liberate-bitcoin-from-old-zip-file/",
+            "urlToImage": "https://media.wired.com/photos/5f2b61c651a37c312e424bc1/191:100/w_1280,c_limit/security_crypto_916432942.jpg",
+            "publishedAt": "2020-08-06T16:16:32Z",
+            "content": "The question still remained, though, whether all that GPU-crunching would actually work. After months of hammering on the problem, Stay was finally ready to try. The Guy hadn't given the entire ZIP f… [+2880 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Many popular Twitter accounts simultaneously hacked to spread cryptocurrency scam",
+            "description": "A number of high-profile cryptocurrency Twitter accounts were simultaneously hacked on Wednesday by attackers who used the accounts — some with millions of followers — to spread cryptocurrency scams. @bitcoin, @ripple, @coindesk, @coinbase, and @binance were …",
+            "url": "http://techcrunch.com/2020/07/15/twitter-accounts-hacked-crypto-scam/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?w=600",
+            "publishedAt": "2020-07-15T20:34:54Z",
+            "content": "A number of high-profile Twitter accounts were simultaneously hacked on Wednesday by attackers who used the accounts some with millions of followers to spread a cryptocurrency scam.\r\n@bitcoin, @rippl… [+2161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "David Murphy",
+            "title": "It's Time to Rethink How You Use Twitter",
+            "description": "A gigantic breach of Twitter’s security yesterday caused various high-profile accounts—from Bill Gates, to Barack Obama, to even the ever-silent Apple—to tweet out scams and sucker people into sending money to an anonymous BitCoin wallet. There’s nothing you …",
+            "url": "https://lifehacker.com/its-time-to-rethink-how-you-use-twitter-1844398386",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bugv12bwxcsdknpqtmef.jpg",
+            "publishedAt": "2020-07-16T13:30:00Z",
+            "content": "A gigantic breach of Twitters security yesterday caused various high-profile accountsfrom Bill Gates, to Barack Obama, to even the ever-silent Appleto tweet out scams and sucker people into sending m… [+7333 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Twitter hackers manipulated staff to access internal systems",
+            "description": "The firm says it is \"embarrassed and sorry\" for the hack that saw celebrities tweet a Bitcoin scam.",
+            "url": "https://www.bbc.co.uk/news/technology-53455092",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/122C6/production/_113483447_twitter-reu-apf.jpg",
+            "publishedAt": "2020-07-18T07:57:25Z",
+            "content": "Image copyrightReuters / AFP\r\nTwitter says hackers manipulated staff and used their credentials to access internal systems in a cyber-attack of celebrity accounts earlier this week.\r\nThe hackers had … [+4380 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Twitter Q2 misses on sales of $683M, loss per share of $0.16 as Covid-19 takes its toll",
+            "description": "On the back of a major security breach last week that saw a bitcoin scam ripple through some of the highest profile accounts on Twitter, the company today reported Q2 earnings that point to the ongoing struggle for ad-based social platforms to weather the pan…",
+            "url": "http://techcrunch.com/2020/07/23/twitter-q2-misses-on-sales-of-683m-loss-per-share-of-0-16-as-covid-19-takes-its-toll/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1055352580.jpg?w=601",
+            "publishedAt": "2020-07-23T11:32:02Z",
+            "content": "On the back of a major security breach last week that saw a bitcoin scam ripple through some of the highest profile accounts on Twitter, the company today reported Q2 earnings that point to the ongoi… [+3994 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Twitter admits hackers accessed DMs of dozens of high-profile accounts",
+            "description": "Last week’s hack of over 100 very high-profile Twitter accounts did in fact expose the direct messages of many of those accounts, the company admitted today — including those of an elected official in the Netherlands. The attack saw numerous popular accounts …",
+            "url": "http://techcrunch.com/2020/07/22/twitter-admits-hackers-accessed-dms-of-dozens-of-high-profile-accounts/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/twitter-hidden-replies1.png?w=753",
+            "publishedAt": "2020-07-23T00:48:51Z",
+            "content": "Last week’s hack of over 100 very high-profile Twitter accounts did in fact expose the direct messages of many of those accounts, the company admitted today including those of an elected official in … [+2014 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "(Deleted account)",
+            "title": "Bitcoin hasn't hit $500K, so now John McAfee has to eat his own...well, just click",
+            "description": "2020 sure does suck so far. But the year might not yet be a complete wash.\nJohn McAfee\r\n still has to eat his dick on live television.\nThree years ago on this date, on July 17, 2017, McAfee, the eccentric founder of the antivirus software company bearing his …",
+            "url": "https://mashable.com/article/john-mcafee-bitcoin-three-year-bet/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F07%252F17%252Fa4%252F614322ea8fd54da5a6139ba134e8fc5b.e79e2.png%252F1200x630.png?signature=4lrr_troAojyls7fDfCM9Ursy0k=",
+            "publishedAt": "2020-07-17T20:22:27Z",
+            "content": "2020 sure does suck so far. But the year might not yet be a complete wash.\r\nJohn McAfee\r\n still has to eat his dick on live television.\r\nThree years ago on this date, on July 17, 2017, McAfee, the ec… [+3653 chars]"
+        }
+    ]
+}
