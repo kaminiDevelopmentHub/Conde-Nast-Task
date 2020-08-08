@@ -2,12 +2,13 @@ This project just for task.
 ##Conde` Nast Code Challange
 
 ##Table of Contents:
-Available Scripts 
-Steps for use 
-Requirement
-Description and Important Notes
-Folder Structure
-Technical SKill 
+1. Available Scripts 
+2. Steps for use 
+3. Requirement
+4. Description and Important Notes
+5. Rest API related 
+6. Technical SKill 
+
 
 
 ##Available Scripts
@@ -42,11 +43,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 ##Steps for use
-Take a git clone https://github.com/kaminiDevelopmentHub/Genpact_React_Task.git.REST
-Go to in this folder.
-Run npm install command.
-Run npm start command.
-Run http://localhost:3000/
+1. Take a git clone https://github.com/kaminiDevelopmentHub/Genpact_React_Task.git.REST
+2. Go to in this folder.
+3. Run npm install command.
+4. Run npm start command.
+5. Run http://localhost:3000/
 
 ##Requirement
 
@@ -58,22 +59,44 @@ Running the app we should be able to see the latest UK news. The user should hav
 
 Important Keys :
 
-Created a React Redux-Saga app.
-service workers for call third party api
-Saga for middleware
-I have written every case handling of API response like a. Success b. Failure c. Records not available . 
-Used React-Router for routing and redirect 
-Comman Static Header 
-Categories, Recent news, search by and search text box are placed in Sidebar's in left side and created separate component for each
-Default page load componenent called NewsList are has the latest news coming from given API
-Detailed news will be shown in a new component on click of Reacd Moren button.
-Search functionality workedon keywords, after type the text press enter and search will happen with onSubmit
+1. Created a React Redux-Saga app.
+2. service workers for call third party api
+3. Saga for middleware
+4. I have written every case handling of API response like a. Success b. Failure c. Records not available . 
+5. Used React-Router for routing and redirect 
+6. Comman Static Header 
+7. Categories, Recent news, search by and search text box are placed in Sidebar's in left side and created separate component for each
+8. Default page load componenent called NewsList are has the latest news coming from given API
+9. Detailed news will be shown in a new component on click of Reacd Moren button.
+10. Search functionality workedon keywords, after type the text press enter and search will happen with onSubmit
 
 ##Rest API related 
 
- //If Auth Key will expire then open below url
-    // return  axios.get(`http://localhost:3000/dummyData/${category}.json`)
+ * If Auth Key will expire then open below url
+    * return  axios.get(`http://localhost:3000/dummyData/${category}.json`)
 
-    //If Auth Key will expire then comment below url
-    return axios.get(`https://newsapi.org/v2/everything?q=${category}&apiKey=1fc1cf9ba4634f988745e2d7d92e5796`)
+* If Auth Key will expire then comment below url
+    * return axios.get(`https://newsapi.org/v2/everything?q=${category}&apiKey=1fc1cf9ba4634f988745e2d7d92e5796`)
+    
 **Note:Currently runing token: 1fc1cf9ba4634f988745e2d7d92e5796 !**
+
+##Technical Skills
+
+1. Operating Systems : Mac OS
+
+2. Databases :: Json API
+
+3. Server Side Languages : Rest API
+
+4. Design : HTML5, CSS3 , Bootstrap
+
+5. Technology : React-Redux-Saga
+
+6. Coding Editor : Visual Studio.
+
+7. Local Server : Node Server.
+
+8. Scripting Languages : JavaScript,ECMS-Script6,NodeJS,NPM,ReactJS-Redux-Saga,babel
+
+9. Version Control Tool : GIT
+
