@@ -113,7 +113,7 @@ class NewsSummary extends React.Component {
 
 
 const mapStateToProps = state => {
-    // console.log("state==", state)
+    console.log("state==", state)
     return {
         isLoading: state.home.isLoading,
         data: state.home.data,
