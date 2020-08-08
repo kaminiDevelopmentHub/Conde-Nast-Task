@@ -43,7 +43,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 ##Steps for use
-1. Take a git clone https://github.com/kaminiDevelopmentHub/Genpact_React_Task.git.REST
+1. Take a git clone https://github.com/kaminiDevelopmentHub/Conde-Nast-Task.git
 2. Go to in this folder.
 3. Run npm install command.
 4. Run npm start command.
@@ -77,7 +77,7 @@ Important Keys :
 
 * If Auth Key will expire then comment below url
     * return axios.get(`https://newsapi.org/v2/everything?q=${category}&apiKey=1fc1cf9ba4634f988745e2d7d92e5796`)
-    
+
 **Note:Currently runing token: 1fc1cf9ba4634f988745e2d7d92e5796 !**
 
 ##Technical Skills
